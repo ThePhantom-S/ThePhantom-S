@@ -1,30 +1,76 @@
 # Hi 👋, I'm R Hari Krishnan
 
-### A passionate software developer
-
-- 🔭 I'm currently working on **low level systems**
-
-- 🌱 I'm currently learning **all about how systems work**
-
-- 👯 I'm looking to collaborate on **open source projects**
-
-- 💬 Ask me about **full-stack development or low level systems**
-
-- 📫 How to reach me **rharikrishnan8726@gmail.com**
-
-- ⚡ Fun fact **Believe in the concept of Learning and Building**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/ThePhantom-S" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="ThePhantom-S" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/hari-krishnan-r-1a83582b6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/hari-krishnan-r-1a83582b6" height="30" width="40" /></a>
-<a href="https://instagram.com/hxri__krishnan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hxri__krishnan" height="30" width="40" /></a>
-<a href="https://codechef.com/users/rharikrishnan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codechef.svg" alt="rharikrishnan" height="30" width="40" /></a>
-<a href="https://hackerrank.com/rharikrishnan871" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rharikrishnan871" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/rharikrishnan8726" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="rharikrishnan8726" height="30" width="40" /></a>
-<a href="https://leetcode.com/r_hari_krishnan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="r_hari_krishnan" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=ThePhantom-S&fontSize=80&fontColor=fff&animation=twinkling" alt="ThePhantom-S Header Banner" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/anaconda" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=anaconda" alt="anaconda" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/arduino" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=arduino" alt="arduino" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/bash" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bash" alt="bash" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/blender" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=blender" alt="blender" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/bootstrap" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/chartjs" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/chartdotjs/FF6384" alt="chartjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/django" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=django" alt="django" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/fastapi" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=fastapi" alt="fastapi" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/figma" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/flask" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=flask" alt="flask" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/jupyter" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/matplotlib" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nestjs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nestjs" alt="nestjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/numpy" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/ollama" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/ollama" alt="ollama" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/opencv" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=opencv" alt="opencv" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pandas" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/photoshop" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=photoshop" alt="photoshop" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postman" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/redis" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=redis" alt="redis" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/rust" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=rust" alt="rust" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/scikit_learn" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=scikitlearn" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/seaborn" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tailwind" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/> </a></p>
+<p align="center">
+  <b>A Passionate Developer dedicated to Mastering Low-Level Systems</b>
+</p>
 
+---
+
+### 💫 About Me
+
+<p align="left">
+  🔭 I'm currently working on building <code>low level systems</code><br>
+  🌱 My learning path is focused entirely on <b>System internals and Architecture</b><br>
+  👯 Open to collaboration on challenging <b>open-source projects</b><br>
+  💬 Expert in <b>full-stack development and C/C++ Systems</b><br>
+  📫 Reach me directly: <b>rharikrishnan8726@gmail.com</b><br>
+  ⚡ Fun fact: <i>"Learning is the Blueprint, Building is the Structure."</i>
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/hari-krishnan-r-1a83582b6" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white&gradient=0077B5,00A0DC" alt="Linked-In-alt" height="28" /></a>
+  <a href="https://github.com/ThePhantom-S" target="blank"><img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white&gradient=303030,000000" alt="github" height="28" /></a>
+  <a href="https://instagram.com/hxri__krishnan" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&gradient=E4405F,FCAF45" alt="instagram" height="28" /></a>
+</p>
+
+<p align="center">
+  <a href="https://codeforces.com/profile/rharikrishnan8726" target="blank"><img src="https://img.shields.io/badge/Codeforces-1488C8?style=flat-square&logo=codeforces&logoColor=white&gradient=1488C8,40BFFF" alt="Codeforces" height="28" /></a>
+  <a href="https://leetcode.com/r_hari_krishnan" target="blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white&gradient=FFA116,FFD21F" alt="leet-code" height="28" /></a>
+  <a href="https://codechef.com/users/rharikrishnan" target="blank"><img src="https://img.shields.io/badge/CodeChef-5B4636?style=flat-square&logo=codechef&logoColor=white&gradient=5B4636,A0785C" alt="codechef" height="28" /></a>
+  <a href="https://hackerrank.com/rharikrishnan871" target="blank"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white&gradient=2EC866,7FFF7F" alt="hackerrank" height="28" /></a>
+</p>
+
+---
+
+### 🛠️ Languages and Tools
+
+This profile applies a **consistent, modern visual style** using custom-designed, glowing gradient tiles for all tools.
+
+#### 🔥 Core, Low-Level & Systems
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,rust,c,linux,bash,arduino&theme=dark" alt="low-level-stack" />
+</p>
+
+#### 🌐 Full-Stack Development
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,tailwind,bootstrap,nodejs,nestjs,django,flask,fastapi&theme=dark" alt="web-stack" />
+</p>
+
+#### 📊 Data Science, AI & DBs
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,anaconda,jupyter,numpy,pandas,scikitlearn,opencv&theme=dark" alt="data-stack" />
+</p>
+
+#### ⚙️ DevOps & Creative Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,docker,postman,figma,photoshop,blender&theme=dark" alt="dev-tools" />
+</p>
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ThePhantom-S&show_icons=true&theme=nord&count_private=true&bg_color=1F2937&title_color=E5E7EB&icon_color=60A5FA&text_color=9CA3AF" alt="ThePhantom-S's Stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThePhantom-S&layout=compact&theme=nord&bg_color=1F2937&title_color=E5E7EB&icon_color=60A5FA&text_color=9CA3AF" alt="Top Langs" height="180px" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Phantom--S-Profile-informational?style=social&logo=github&logoColor=black&labelColor=white&color=white" alt="Phantom-S Identity" />
+</p>
