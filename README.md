@@ -1,76 +1,183 @@
-# Hi 👋, I'm R Hari Krishnan
+<div align="center">
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=ThePhantom-S&fontSize=80&fontColor=fff&animation=twinkling" alt="ThePhantom-S Header Banner" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f1e,50:0d1b3e,100:00d4ff&height=220&section=header&text=R%20Hari%20Krishnan&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=ThePhantom-S%20%7C%20Systems%20Developer&descAlignY=58&descSize=18&descColor=7ec8e3" />
 
-<p align="center">
-  <b>A Passionate Developer dedicated to Mastering Low-Level Systems</b>
-</p>
+</div>
 
----
+<div align="center">
 
-### 💫 About Me
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Building+Low-Level+Systems+%F0%9F%94%A7;Mastering+System+Internals+%26+Architecture;Full-Stack+%2B+C%2FC%2B%2B+Developer;Open+Source+Collaborator;%22Learning+is+the+Blueprint%22)](https://git.io/typing-svg)
 
-<p align="left">
-  🔭 I'm currently working on building <code>low level systems</code><br>
-  🌱 My learning path is focused entirely on <b>System internals and Architecture</b><br>
-  👯 Open to collaboration on challenging <b>open-source projects</b><br>
-  💬 Expert in <b>full-stack development and C/C++ Systems</b><br>
-  📫 Reach me directly: <b>rharikrishnan8726@gmail.com</b><br>
-  ⚡ Fun fact: <i>"Learning is the Blueprint, Building is the Structure."</i>
-</p>
-
-<p align="center">
-  <a href="https://linkedin.com/in/hari-krishnan-r-1a83582b6" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white&gradient=0077B5,00A0DC" alt="Linked-In-alt" height="28" /></a>
-  <a href="https://github.com/ThePhantom-S" target="blank"><img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white&gradient=303030,000000" alt="github" height="28" /></a>
-  <a href="https://instagram.com/hxri__krishnan" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&gradient=E4405F,FCAF45" alt="instagram" height="28" /></a>
-</p>
-
-<p align="center">
-  <a href="https://codeforces.com/profile/rharikrishnan8726" target="blank"><img src="https://img.shields.io/badge/Codeforces-1488C8?style=flat-square&logo=codeforces&logoColor=white&gradient=1488C8,40BFFF" alt="Codeforces" height="28" /></a>
-  <a href="https://leetcode.com/r_hari_krishnan" target="blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white&gradient=FFA116,FFD21F" alt="leet-code" height="28" /></a>
-  <a href="https://codechef.com/users/rharikrishnan" target="blank"><img src="https://img.shields.io/badge/CodeChef-5B4636?style=flat-square&logo=codechef&logoColor=white&gradient=5B4636,A0785C" alt="codechef" height="28" /></a>
-  <a href="https://hackerrank.com/rharikrishnan871" target="blank"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white&gradient=2EC866,7FFF7F" alt="hackerrank" height="28" /></a>
-</p>
+</div>
 
 ---
 
-### 🛠️ Languages and Tools
+<div align="center">
 
-This profile applies a **consistent, modern visual style** using custom-designed, glowing gradient tiles for all tools.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hari-krishnan-r-1a83582b6)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ThePhantom-S)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/hxri__krishnan)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rharikrishnan8726@gmail.com)
+
+[![Codeforces](https://img.shields.io/badge/Codeforces-1488C8?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/rharikrishnan8726)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/r_hari_krishnan)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4636?style=for-the-badge&logo=codechef&logoColor=white)](https://codechef.com/users/rharikrishnan)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com/rharikrishnan871)
+
+</div>
+
+---
+
+## 💫 About Me
+
+```bash
+$ whoami
+> R Hari Krishnan  |  alias: ThePhantom-S
+
+$ cat about.txt
+🔭  Currently   →  Building low-level systems & custom architectures
+🌱  Learning    →  System internals, OS design, compiler theory
+👯  Open to     →  Challenging open-source collaborations
+💬  Expert in   →  Full-stack development & C/C++ systems
+📫  Reach me    →  rharikrishnan8726@gmail.com
+⚡  Mantra      →  "Learning is the Blueprint, Building is the Structure."
+```
+
+---
+
+## 🛠️ Tech Stack
 
 #### 🔥 Core, Low-Level & Systems
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,rust,c,linux,bash,arduino&theme=dark" alt="low-level-stack" />
-</p>
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00878A?style=for-the-badge&logo=arduino&logoColor=white)
 
 #### 🌐 Full-Stack Development
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,tailwind,bootstrap,nodejs,nestjs,django,flask,fastapi&theme=dark" alt="web-stack" />
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
-#### 📊 Data Science, AI & DBs
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,anaconda,jupyter,numpy,pandas,scikitlearn,opencv&theme=dark" alt="data-stack" />
-</p>
+#### 📊 Data Science, AI & Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
 
 #### ⚙️ DevOps & Creative Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,docker,postman,figma,photoshop,blender&theme=dark" alt="dev-tools" />
-</p>
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white)
 
 ---
 
-### 📈 GitHub Stats
+## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ThePhantom-S&show_icons=true&theme=nord&count_private=true&bg_color=1F2937&title_color=E5E7EB&icon_color=60A5FA&text_color=9CA3AF" alt="ThePhantom-S's Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThePhantom-S&layout=compact&theme=nord&bg_color=1F2937&title_color=E5E7EB&icon_color=60A5FA&text_color=9CA3AF" alt="Top Langs" height="180px" />
-</p>
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ThePhantom-S&show_icons=true&theme=tokyonight&count_private=true&bg_color=0d1117&title_color=00d4ff&icon_color=7b5ea7&text_color=c8d6ef&border_color=1a2540&border_radius=12&hide_border=false" height="180px" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThePhantom-S&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=00d4ff&text_color=c8d6ef&border_color=1a2540&border_radius=12" height="180px" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=ThePhantom-S&theme=tokyonight&hide_border=false&border=1a2540&background=0d1117&stroke=00d4ff&ring=7b5ea7&fire=ff4d6d&currStreakLabel=00d4ff&sideLabels=c8d6ef&dates=4a5a7a&border_radius=12" height="180px" />
+
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Phantom--S-Profile-informational?style=social&logo=github&logoColor=black&labelColor=white&color=white" alt="Phantom-S Identity" />
-</p>
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ThePhantom-S&theme=tokyonight&no-frame=false&no-bg=false&margin-w=6&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 📊 Contribution Activity
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ThePhantom-S&theme=tokyo-night&bg_color=0d1117&color=00d4ff&line=7b5ea7&point=ff4d6d&area=true&hide_border=false&border_color=1a2540&radius=12)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ThePhantom-S/ThePhantom-S/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ThePhantom-S/ThePhantom-S/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ThePhantom-S/ThePhantom-S/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
+> **Note:** To enable the snake animation, add this GitHub Action to `.github/workflows/snake.yml` in your profile repo:
+> ```yaml
+> name: Generate Snake
+> on:
+>   schedule: [{ cron: "0 0 * * *" }]
+>   workflow_dispatch:
+> jobs:
+>   generate:
+>     runs-on: ubuntu-latest
+>     steps:
+>       - uses: Platane/snk@v3
+>         with:
+>           github_user_name: ThePhantom-S
+>           outputs: |
+>             dist/github-contribution-grid-snake.svg
+>             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+>       - uses: crazy-max/ghaction-github-pages@v3
+>         with:
+>           target_branch: output
+>           build_dir: dist
+>         env:
+>           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+> ```
+
+---
+
+## 👁️ Profile Views
+
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=ThePhantom-S&color=00d4ff&style=for-the-badge&label=PROFILE+VIEWS)
+[![followers](https://img.shields.io/github/followers/ThePhantom-S?style=for-the-badge&color=7b5ea7&labelColor=0d1117&label=FOLLOWERS)](https://github.com/ThePhantom-S)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:7b5ea7,100:0a0f1e&height=120&section=footer&animation=fadeIn" />
+
+</div>
