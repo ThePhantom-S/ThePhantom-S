@@ -90,15 +90,6 @@ $ cat about.txt
 
 ---
 
-## 🚀 Featured Systems Projects
-
-| Project | Core Architecture | Key Technical Milestone |
-| :--- | :--- | :--- |
-| **[Rust Log Ingestion Pipeline](https://github.com/ThePhantom-S/)** | Async Rust, Crossbeam Channels, FastAPI, PostgreSQL | Multi-threaded batching; processed 11,500+ logs natively without dropped packets. |
-| **[System Health Analyzer](https://github.com/ThePhantom-S/)** | Rust, Linux `/proc` filesystem parsing, Bash | Low-overhead process diagnostics running completely independent of external dependencies. |
-
----
-
 ## 📈 GitHub Stats
 
 <div align="center">
