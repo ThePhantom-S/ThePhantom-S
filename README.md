@@ -38,7 +38,7 @@ $ cat about.txt
 🔭  Currently   →  Building low-level systems & custom architectures
 🌱  Learning    →  System internals, OS design, compiler theory
 👯  Open to     →  Challenging open-source collaborations
-💬  Expert in   →  Full-stack development & C/C++ systems
+💬  Interested in   →  Full-stack development & C/C++ systems
 📫  Reach me    →  rharikrishnan8726@gmail.com
 ⚡  Mantra      →  "Learning is the Blueprint, Building is the Structure."
 ```
