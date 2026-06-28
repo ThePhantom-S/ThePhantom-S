@@ -14,15 +14,16 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hari-krishnan-r-1a83582b6)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/r-hari-krishnan8726)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ThePhantom-S)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/hxri__krishnan)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rharikrishnan8726@gmail.com)
 
-[![Codeforces](https://img.shields.io/badge/Codeforces-1488C8?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/rharikrishnan8726)
+
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/r_hari_krishnan)
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4636?style=for-the-badge&logo=codechef&logoColor=white)](https://codechef.com/users/rharikrishnan)
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com/rharikrishnan871)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1488C8?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/rharikrishnan8726)
 
 </div>
 
