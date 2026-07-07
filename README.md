@@ -88,33 +88,6 @@ $ cat about.txt
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ThePhantom-S&show_icons=true&theme=tokyonight&count_private=true&bg_color=0d1117&title_color=00d4ff&icon_color=7b5ea7&text_color=c8d6ef&border_color=1a2540&border_radius=12&hide_border=false" height="180px" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThePhantom-S&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=00d4ff&text_color=c8d6ef&border_color=1a2540&border_radius=12" height="180px" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=ThePhantom-S&theme=tokyonight&hide_border=false&border=1a2540&background=0d1117&stroke=00d4ff&ring=7b5ea7&fire=ff4d6d&currStreakLabel=00d4ff&sideLabels=c8d6ef&dates=4a5a7a&border_radius=12" height="180px" />
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ThePhantom-S&theme=tokyonight&no-frame=false&no-bg=false&margin-w=6&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
 ## 📊 Contribution Activity
 
 <div align="center">
